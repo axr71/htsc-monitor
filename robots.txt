@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://axr71.github.io/htsc-monitor/sitemap.xml
